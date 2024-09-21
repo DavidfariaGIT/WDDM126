@@ -10,9 +10,9 @@ h1 {
     font-size: 90px;
     font-family: "Lexend", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: weight;
     font-style: normal;
-      }
+    }
 
 
 h2 {
@@ -26,6 +26,23 @@ p {
     color:darkolivegreen;
     padding: 30px;
     margin-left: 150px;
-    margin-right: 500px;
+    margin-right: 1000px;
+    text-align: left;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+p2 {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color:darkolivegreen;
+    padding: 30px;
+    margin-left: 150px;
     text-align: left;
 }
+
+
