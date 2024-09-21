@@ -49,5 +49,8 @@ img {
     margin-left: 130px;
     padding: 45px;
 }
-
-
+#norm{
+    color: black;
+    padding: 0px 0px 0px 30px;
+    margin: auto;
+}
