@@ -1,7 +1,12 @@
 body{
     background-color:burlywood;
-}
+    margin: 0px;
+  }
 
 h1 {
     color: darkolivegreen;
+    margin-left: 1050px;
+    padding: 5px;
+    font-size: 90px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
