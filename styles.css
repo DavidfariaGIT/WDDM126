@@ -60,3 +60,9 @@ iframe {
     padding : 10px;
     border : 1rem dashed saddlebrown;
 }
+
+table, td {
+    border:1px solid black;
+    margin : 20px;
+    background-color: bisque;
+  }
