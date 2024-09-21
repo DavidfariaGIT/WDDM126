@@ -54,3 +54,9 @@ img {
     padding: 0px 0px 0px 30px;
     margin: auto;
 }
+
+iframe {
+    margin : 20px;
+    padding : 10px;
+    border : 1rem dashed saddlebrown;
+}
